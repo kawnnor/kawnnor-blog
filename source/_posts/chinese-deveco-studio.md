@@ -8,7 +8,7 @@ tags:
   - DevEco Studio
 ---
 
-## 设置 DevEco Studio 中文界面
+## 操作步骤
 
 第一步、启动 DevEco Studio，文中使用的版本：DevEco Studio NEXT Beta1（5.0.3.806，2024年9月11日构建）。
 
